@@ -13,7 +13,6 @@ var doubled = numbers.map(function (number) {
 	return number * 2;
 })
 
-
 // Plucking properties of objects
 var cars = [
 	{ model:'Nano', price: 'Cheap' },
@@ -23,3 +22,4 @@ var cars = [
 var prices = cars.map(function(car) {
 	return car.price;
 });
+
