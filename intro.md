@@ -7,12 +7,13 @@
 
 ### Features added in ES6
 * Array helpers: Its purpose is to help iterate over the array. Earlier implemented by lodash and underscore
-	* ForEach
+	* ForEach:
 	* Map
 	* Filter
 	* Find: Search through and look for a particular element in array
 	* Every
 	* Some 
 	* Reduce
-	* 
-* 
+	* ConstLet
+	* Template Strings
+	* Arrow Functions
