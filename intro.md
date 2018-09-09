@@ -6,7 +6,9 @@
 * Babel transpiles ES6 to ES5
 
 ### Features added in ES6
-* Array helpers: Its purpose is to help iterate over the array. Earlier implemented by lodash and underscore
+
+#### ES6 Helpers: 
+*Array helpers: Its purpose is to help iterate over the array. Earlier implemented by lodash and underscore	
 	* ForEach:
 	* Map
 	* Filter
@@ -14,6 +16,8 @@
 	* Every
 	* Some 
 	* Reduce
+
+#### ES6 Syntax:
 	* ConstLet
 	* Template Strings
 	* Arrow Functions

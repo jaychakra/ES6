@@ -10,7 +10,7 @@ for (var i =0; i < numbers.length; i++) {
 // Using map;
 
 var doubled = numbers.map(function (number) {
-	return number * 2;
+	return number * 2;   // Here return is IMP
 })
 
 // Plucking properties of objects
